@@ -1,0 +1,8 @@
+.idea/
+.ipynb_checkpoints/
+logs/
+raw_data/Glenda/
+processed_data/no_pathology_train/
+processed_data/pathology_train/
+
+models/
